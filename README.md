@@ -1,6 +1,6 @@
 ## Olá, Eu sou Fernando Yepes 👋
 
-# Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligência artificial para criar experiências incríveis e soluções eficientes.
+ Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligência artificial para criar experiências incríveis e soluções eficientes.
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas (ADS).
 - 🌱 No momento estou aprofundando meus estudos em **React, Java, Python e Integração com IA (CrewAI / Gemini API)**.
