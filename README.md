@@ -1,10 +1,12 @@
 ## Olá, Eu sou Fernando Yepes 👋
 
- Sou um desenvolvedor Full-Stack, sempre em busca de unir tecnologia e inteligência artificial para criar experiências incríveis e soluções eficientes.
+Sou um desenvolvedor Full-Stack e apaixonado por unir tecnologia, dados e inteligência artificial para criar soluções eficientes e com impacto real. Acredito que o melhor código é aquele construído com colaboração, por isso valorizo muito a empatia, a comunicação clara e a liderança no trabalho em equipe.
 
 - 🔭 Graduando em Análise e Desenvolvimento de Sistemas (ADS).
-- 🌱 No momento estou aprofundando meus estudos em **React, Java, Python e Integração com IA (CrewAI / Gemini API)**.
-- 📫 Contate-me: [fernandosievertyepes@gmail.com](mailto:fernandosievertyepes@gmail.com)
+- 🚀 **Selecionado para o Geração Caldeira (Turma 2026)** na trilha de Inteligência Artificial e Dados.
+- 🌱 No momento estou aprofundando meus estudos em **React, Java, Python, SQL e Integração com IA (CrewAI / Gemini API)**.
+- 💡 Além da tela: Tenho experiência com IoT (projetos com Arduino) e atuo como comunicador.
+- 📫 Contate-me: [fersievertyepes@gmail.com](mailto:fersievertyepes@gmail.com)
 
 ### Redes Sociais
 <p align="left">
@@ -40,8 +42,9 @@
 
 ---
 
-### Projetos
+### Projetos Em Destaque
 
+* **Boia de Cloro Inteligente (IoT):** Sistema integrado com Arduino para monitoramento automatizado de pH e Cloro da água com sinalização via LEDs.
 * [Projeto DMAE colaboração faculdade](https://dmae-frontend.onrender.com/)
-* [Aplicativo de Busca de Filmes](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/React_Atividade5_API_FernandoYepes)) *(Módulo 3 +Prati)*
-* [Atividade 4: Página de Perfil Pessoal](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/Atividade4_PerfilPessoal_FernandoYepes)
+* [Aplicativo de Busca de Filmes (Consumo de API)](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/React_Atividade5_API_FernandoYepes)) *(Módulo 3 +Prati)*
+* [Página de Perfil Pessoal](https://github.com/fernandoYepes/2025_-PraTi-Codifica/tree/main/Atividade4_PerfilPessoal_FernandoYepes)
